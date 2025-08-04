@@ -1,5 +1,5 @@
-# Custom Recipe Generator
-A Flask web app that generates fun and creative recipes using OpenAI. Just input ingredients, and let AI cook up something delicious!
+# Custom Image Generator
+A Flask web app that generates fun and creative images using OpenAI. Just input the description of the image!
 ## 💻 How to Run
 ```bash
 pip install -r requirements.txt
